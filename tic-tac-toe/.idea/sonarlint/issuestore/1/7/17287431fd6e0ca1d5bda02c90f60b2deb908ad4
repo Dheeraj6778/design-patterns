@@ -1,0 +1,4 @@
+
+p
+java:S1104"UMake pieceType a static final constant or non-public and provide accessors if needed.(æê³—üÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(á–Ì“
