@@ -1,0 +1,16 @@
+
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(Þ´öžùÿÿÿÿ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(™Ãø¤
+R
+java:S1854;"<Remove this useless assignment to local variable "tempCart".(úõŽµ
+C
+java:S1481;"-Remove this unused "tempCart" local variable.(úõŽµ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(ä•«šùÿÿÿÿ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(·å†Ú
+U	java:S106D"9Replace this use of System.out or System.err by a logger.(ÐˆÞý8ÙÿÛæ1
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8¼Õ»æ1
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8¶¯Ðæ1
+U
+java:S1068	"3Remove this unused "isAuthenticated" private field.(µâ³æüÿÿÿÿ8ýÜÏæ1

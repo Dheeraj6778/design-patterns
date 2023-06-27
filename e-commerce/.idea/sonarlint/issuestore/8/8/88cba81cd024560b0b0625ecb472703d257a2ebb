@@ -1,0 +1,12 @@
+
+c
+java:S1192"FDefine a constant instead of duplicating this literal "Phone" 3 times.(£áëö8¦ÉÕæ1
+U
+java:S1854
+"8Remove this useless assignment to local variable "user".(Õåèñ8Ç¯×æ1
+Q	java:S125"<This block of commented-out lines of code should be removed.(îÄ¸Õ
+F
+java:S1481
+")Remove this unused "user" local variable.(Õåèñ8Ì¯×æ1
+]	java:S125"<This block of commented-out lines of code should be removed.(¥Î¿´ûÿÿÿÿ8“˜×æ1
+S	java:S106"9Replace this use of System.out or System.err by a logger.(øôŞşÿÿÿÿ
