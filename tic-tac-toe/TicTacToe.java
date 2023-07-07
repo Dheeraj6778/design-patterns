@@ -28,16 +28,12 @@ public class TicTacToe {
                 while (true){
                     String pos=scanner.nextLine();
                     String[] arr=pos.split(",");
-//                x= scanner.nextInt();
-//                y= scanner.nextInt();
                     x=Integer.parseInt(arr[0]);
                     y=Integer.parseInt(arr[1]);
                     if(board.isValidPosition(x,y))
                         break;
                     System.out.println("Enter a valid position");
                 }
-
-                //scanner.nextLine();
                 if(flag==1){
                     //player 1
                     player1.placePiece(x,y);
